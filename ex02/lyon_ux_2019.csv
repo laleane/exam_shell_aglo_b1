@@ -1,0 +1,4 @@
+grep Lyon data.csv | grep UX | grep 2019
+Nessie,Ulphia,Nessie.Ulphia@icanschool.com,UX,2019,Lyon
+Carmela,Clywd,Carmela.Clywd@icanschool.com,UX,2019,Lyon
+Johna,Munn,Johna.Munn@icanschool.com,UX,2019,Lyon
