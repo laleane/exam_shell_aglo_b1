@@ -1,0 +1,500 @@
+  294  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00 (main)
+  295  $ ls
+  296  covers/
+  297  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00 (main)
+  298  $ cd covers
+  299  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  300  $ ls
+  301  dc_jetgrindradio_10.jpg
+  302  dc_jetsetradio_eu_front.jpg
+  303  dc_shenmue_eu.jpg
+  304  dc_shenmueii_5.jpg
+  305  gameboy.pokmonred.jpg
+  306  gb_pokemonblue_eu.jpg
+  307  gb_pokemongreen_3.jpg
+  308  gb_pokemonyellow_au.jpg
+  309  gbc_pokemongold.jpg
+  310  gc_mariokartdoubledash.jpg
+  311  gc_supermariosunshine.jpg
+  312  playstation_4.assassinscreedodyssey.jpg
+  313  playstation_4.unchartedthelostlegacy.jpg
+  314  playstation_4.watchdogs2.jpg
+  315  playstation_5.assassinscreedvalhalla.jpg
+  316  playstation_5.farcry6.jpg
+  317  playstation_5.residentevilvillage_.jpg
+  318  ps4_fifa14.jpg
+  319  x360_callfoduty3.jpg
+  320  x360_callofduty2.jpg
+  321  x360_callofduty4.jpg
+  322  x360_callofdutyblackopsii.jpg
+  323  xbox_360.fableiii.jpg
+  324  xbox_deadoralive3.jpg
+  325  xbox_deadtorights.jpg
+  326  xbox_defjamfightforny.jpg
+  327  xbox_halo2.jpg
+  328  xbox_halo_2.jpg
+  329  xbox_jetsetradiofuture_2.jpg
+  330  xbox_needforspeedunderground2.jpg
+  331  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  332  $ mkdir Sony Microsoft Nintendo
+  333  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  334  $ ls
+  335  Microsoft/
+  336  Nintendo/
+  337  Sony/
+  338  dc_jetgrindradio_10.jpg
+  339  dc_jetsetradio_eu_front.jpg
+  340  dc_shenmue_eu.jpg
+  341  dc_shenmueii_5.jpg
+  342  gameboy.pokmonred.jpg
+  343  gb_pokemonblue_eu.jpg
+  344  gb_pokemongreen_3.jpg
+  345  gb_pokemonyellow_au.jpg
+  346  gbc_pokemongold.jpg
+  347  gc_mariokartdoubledash.jpg
+  348  gc_supermariosunshine.jpg
+  349  playstation_4.assassinscreedodyssey.jpg
+  350  playstation_4.unchartedthelostlegacy.jpg
+  351  playstation_4.watchdogs2.jpg
+  352  playstation_5.assassinscreedvalhalla.jpg
+  353  playstation_5.farcry6.jpg
+  354  playstation_5.residentevilvillage_.jpg
+  355  ps4_fifa14.jpg
+  356  x360_callfoduty3.jpg
+  357  x360_callofduty2.jpg
+  358  x360_callofduty4.jpg
+  359  x360_callofdutyblackopsii.jpg
+  360  xbox_360.fableiii.jpg
+  361  xbox_deadoralive3.jpg
+  362  xbox_deadtorights.jpg
+  363  xbox_defjamfightforny.jpg
+  364  xbox_halo2.jpg
+  365  xbox_halo_2.jpg
+  366  xbox_jetsetradiofuture_2.jpg
+  367  xbox_needforspeedunderground2.jpg
+  368  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  369  $ cd Nintendo
+  370  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  371  $ mkdir Gamecube Gameboy Gameboycolor Dreamcast
+  372  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  373  $ ls
+  374  Dreamcast/  Gameboy/  Gameboycolor/  Gamecube/
+  375  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  376  $ cd ..
+  377  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  378  $ ls
+  379  Microsoft/
+  380  Nintendo/
+  381  Sony/
+  382  dc_jetgrindradio_10.jpg
+  383  dc_jetsetradio_eu_front.jpg
+  384  dc_shenmue_eu.jpg
+  385  dc_shenmueii_5.jpg
+  386  gameboy.pokmonred.jpg
+  387  gb_pokemonblue_eu.jpg
+  388  gb_pokemongreen_3.jpg
+  389  gb_pokemonyellow_au.jpg
+  390  gbc_pokemongold.jpg
+  391  gc_mariokartdoubledash.jpg
+  392  gc_supermariosunshine.jpg
+  393  playstation_4.assassinscreedodyssey.jpg
+  394  playstation_4.unchartedthelostlegacy.jpg
+  395  playstation_4.watchdogs2.jpg
+  396  playstation_5.assassinscreedvalhalla.jpg
+  397  playstation_5.farcry6.jpg
+  398  playstation_5.residentevilvillage_.jpg
+  399  ps4_fifa14.jpg
+  400  x360_callfoduty3.jpg
+  401  x360_callofduty2.jpg
+  402  x360_callofduty4.jpg
+  403  x360_callofdutyblackopsii.jpg
+  404  xbox_360.fableiii.jpg
+  405  xbox_deadoralive3.jpg
+  406  xbox_deadtorights.jpg
+  407  xbox_defjamfightforny.jpg
+  408  xbox_halo2.jpg
+  409  xbox_halo_2.jpg
+  410  xbox_jetsetradiofuture_2.jpg
+  411  xbox_needforspeedunderground2.jpg
+  412  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  413  $ cd Sony
+  414  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Sony (main)
+  415  $ ls
+  416  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Sony (main)
+  417  $ mkdir ps4 ps5
+  418  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Sony (main)
+  419  $ LS
+  420  ps4  ps5
+  421  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Sony (main)
+  422  $ ls
+  423  ps4/  ps5/
+  424  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Sony (main)
+  425  $ cd ..
+  426  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  427  $ ls
+  428  Microsoft/
+  429  Nintendo/
+  430  Sony/
+  431  dc_jetgrindradio_10.jpg
+  432  dc_jetsetradio_eu_front.jpg
+  433  dc_shenmue_eu.jpg
+  434  dc_shenmueii_5.jpg
+  435  gameboy.pokmonred.jpg
+  436  gb_pokemonblue_eu.jpg
+  437  gb_pokemongreen_3.jpg
+  438  gb_pokemonyellow_au.jpg
+  439  gbc_pokemongold.jpg
+  440  gc_mariokartdoubledash.jpg
+  441  gc_supermariosunshine.jpg
+  442  playstation_4.assassinscreedodyssey.jpg
+  443  playstation_4.unchartedthelostlegacy.jpg
+  444  playstation_4.watchdogs2.jpg
+  445  playstation_5.assassinscreedvalhalla.jpg
+  446  playstation_5.farcry6.jpg
+  447  playstation_5.residentevilvillage_.jpg
+  448  ps4_fifa14.jpg
+  449  x360_callfoduty3.jpg
+  450  x360_callofduty2.jpg
+  451  x360_callofduty4.jpg
+  452  x360_callofdutyblackopsii.jpg
+  453  xbox_360.fableiii.jpg
+  454  xbox_deadoralive3.jpg
+  455  xbox_deadtorights.jpg
+  456  xbox_defjamfightforny.jpg
+  457  xbox_halo2.jpg
+  458  xbox_halo_2.jpg
+  459  xbox_jetsetradiofuture_2.jpg
+  460  xbox_needforspeedunderground2.jpg
+  461  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  462  $ mkdir Sega
+  463  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  464  $ ls
+  465  Microsoft/
+  466  Nintendo/
+  467  Sega/
+  468  Sony/
+  469  dc_jetgrindradio_10.jpg
+  470  dc_jetsetradio_eu_front.jpg
+  471  dc_shenmue_eu.jpg
+  472  dc_shenmueii_5.jpg
+  473  gameboy.pokmonred.jpg
+  474  gb_pokemonblue_eu.jpg
+  475  gb_pokemongreen_3.jpg
+  476  gb_pokemonyellow_au.jpg
+  477  gbc_pokemongold.jpg
+  478  gc_mariokartdoubledash.jpg
+  479  gc_supermariosunshine.jpg
+  480  playstation_4.assassinscreedodyssey.jpg
+  481  playstation_4.unchartedthelostlegacy.jpg
+  482  playstation_4.watchdogs2.jpg
+  483  playstation_5.assassinscreedvalhalla.jpg
+  484  playstation_5.farcry6.jpg
+  485  playstation_5.residentevilvillage_.jpg
+  486  ps4_fifa14.jpg
+  487  x360_callfoduty3.jpg
+  488  x360_callofduty2.jpg
+  489  x360_callofduty4.jpg
+  490  x360_callofdutyblackopsii.jpg
+  491  xbox_360.fableiii.jpg
+  492  xbox_deadoralive3.jpg
+  493  xbox_deadtorights.jpg
+  494  xbox_defjamfightforny.jpg
+  495  xbox_halo2.jpg
+  496  xbox_halo_2.jpg
+  497  xbox_jetsetradiofuture_2.jpg
+  498  xbox_needforspeedunderground2.jpg
+  499  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  500  $ cd Sega
+  501  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Sega (main)
+  502  $ mkdir Dreamcast
+  503  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Sega (main)
+  504  $ ls
+  505  Dreamcast/
+  506  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Sega (main)
+  507  $ cd ..
+  508  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  509  $ ls
+  510  Microsoft/
+  511  Nintendo/
+  512  Sega/
+  513  Sony/
+  514  dc_jetgrindradio_10.jpg
+  515  dc_jetsetradio_eu_front.jpg
+  516  dc_shenmue_eu.jpg
+  517  dc_shenmueii_5.jpg
+  518  gameboy.pokmonred.jpg
+  519  gb_pokemonblue_eu.jpg
+  520  gb_pokemongreen_3.jpg
+  521  gb_pokemonyellow_au.jpg
+  522  gbc_pokemongold.jpg
+  523  gc_mariokartdoubledash.jpg
+  524  gc_supermariosunshine.jpg
+  525  playstation_4.assassinscreedodyssey.jpg
+  526  playstation_4.unchartedthelostlegacy.jpg
+  527  playstation_4.watchdogs2.jpg
+  528  playstation_5.assassinscreedvalhalla.jpg
+  529  playstation_5.farcry6.jpg
+  530  playstation_5.residentevilvillage_.jpg
+  531  ps4_fifa14.jpg
+  532  x360_callfoduty3.jpg
+  533  x360_callofduty2.jpg
+  534  x360_callofduty4.jpg
+  535  x360_callofdutyblackopsii.jpg
+  536  xbox_360.fableiii.jpg
+  537  xbox_deadoralive3.jpg
+  538  xbox_deadtorights.jpg
+  539  xbox_defjamfightforny.jpg
+  540  xbox_halo2.jpg
+  541  xbox_halo_2.jpg
+  542  xbox_jetsetradiofuture_2.jpg
+  543  xbox_needforspeedunderground2.jpg
+  544  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  545  $ cd Nintendo
+  546  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  547  $ ls
+  548  Dreamcast/  Gameboy/  Gameboycolor/  Gamecube/
+  549  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  550  $ git rm Dreamcast
+  551  fatal: pathspec 'Dreamcast' did not match any files
+  552  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  553  $ ls
+  554  Dreamcast/  Gameboy/  Gameboycolor/  Gamecube/
+  555  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  556  $ rm -rf Dreamcast
+  557  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  558  $ ls
+  559  Gameboy/  Gameboycolor/  Gamecube/
+  560  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  561  $ cd ..
+  562  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  563  $ ls
+  564  Microsoft/                   gb_pokemonblue_eu.jpg                     playstation_5.assassinscreedvalhalla.jpg  xbox_deadoralive3.jpg
+  565  Nintendo/                    gb_pokemongreen_3.jpg                     playstation_5.farcry6.jpg                 xbox_deadtorights.jpg
+  566  Sega/                        gb_pokemonyellow_au.jpg                   playstation_5.residentevilvillage_.jpg    xbox_defjamfightforny.jpg
+  567  Sony/                        gbc_pokemongold.jpg                       ps4_fifa14.jpg                            xbox_halo2.jpg
+  568  dc_jetgrindradio_10.jpg      gc_mariokartdoubledash.jpg                x360_callfoduty3.jpg                      xbox_halo_2.jpg
+  569  dc_jetsetradio_eu_front.jpg  gc_supermariosunshine.jpg                 x360_callofduty2.jpg                      xbox_jetsetradiofuture_2.jpg
+  570  dc_shenmue_eu.jpg            playstation_4.assassinscreedodyssey.jpg   x360_callofduty4.jpg                      xbox_needforspeedunderground2.jpg
+  571  dc_shenmueii_5.jpg           playstation_4.unchartedthelostlegacy.jpg  x360_callofdutyblackopsii.jpg
+  572  gameboy.pokmonred.jpg        playstation_4.watchdogs2.jpg              xbox_360.fableiii.jpg
+  573  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  574  $ cd Microsoft
+  575  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Microsoft (main)
+  576  $ ls
+  577  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Microsoft (main)
+  578  $ mkdir xbox360 xbox
+  579  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Microsoft (main)
+  580  $ ls
+  581  xbox/  xbox360/
+  582  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Microsoft (main)
+  583  $ cd ..
+  584  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  585  $ ls
+  586  Microsoft/                   gb_pokemonblue_eu.jpg                     playstation_5.assassinscreedvalhalla.jpg  xbox_deadoralive3.jpg
+  587  Nintendo/                    gb_pokemongreen_3.jpg                     playstation_5.farcry6.jpg                 xbox_deadtorights.jpg
+  588  Sega/                        gb_pokemonyellow_au.jpg                   playstation_5.residentevilvillage_.jpg    xbox_defjamfightforny.jpg
+  589  Sony/                        gbc_pokemongold.jpg                       ps4_fifa14.jpg                            xbox_halo2.jpg
+  590  dc_jetgrindradio_10.jpg      gc_mariokartdoubledash.jpg                x360_callfoduty3.jpg                      xbox_halo_2.jpg
+  591  dc_jetsetradio_eu_front.jpg  gc_supermariosunshine.jpg                 x360_callofduty2.jpg                      xbox_jetsetradiofuture_2.jpg
+  592  dc_shenmue_eu.jpg            playstation_4.assassinscreedodyssey.jpg   x360_callofduty4.jpg                      xbox_needforspeedunderground2.jpg
+  593  dc_shenmueii_5.jpg           playstation_4.unchartedthelostlegacy.jpg  x360_callofdutyblackopsii.jpg
+  594  gameboy.pokmonred.jpg        playstation_4.watchdogs2.jpg              xbox_360.fableiii.jpg
+  595  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  596  $ mv ^C
+  597  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  598  $ ls
+  599  Microsoft/                   gb_pokemonblue_eu.jpg                     playstation_5.assassinscreedvalhalla.jpg  xbox_deadoralive3.jpg
+  600  Nintendo/                    gb_pokemongreen_3.jpg                     playstation_5.farcry6.jpg                 xbox_deadtorights.jpg
+  601  Sega/                        gb_pokemonyellow_au.jpg                   playstation_5.residentevilvillage_.jpg    xbox_defjamfightforny.jpg
+  602  Sony/                        gbc_pokemongold.jpg                       ps4_fifa14.jpg                            xbox_halo2.jpg
+  603  dc_jetgrindradio_10.jpg      gc_mariokartdoubledash.jpg                x360_callfoduty3.jpg                      xbox_halo_2.jpg
+  604  dc_jetsetradio_eu_front.jpg  gc_supermariosunshine.jpg                 x360_callofduty2.jpg                      xbox_jetsetradiofuture_2.jpg
+  605  dc_shenmue_eu.jpg            playstation_4.assassinscreedodyssey.jpg   x360_callofduty4.jpg                      xbox_needforspeedunderground2.jpg
+  606  dc_shenmueii_5.jpg           playstation_4.unchartedthelostlegacy.jpg  x360_callofdutyblackopsii.jpg
+  607  gameboy.pokmonred.jpg        playstation_4.watchdogs2.jpg              xbox_360.fableiii.jpg
+  608  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  609  $ mv dc_jetgrindradio_10.jpg dc_jetsetradio_eu_front.jpg dc_shenmue_eu.jpg dc_shenmueii_5.jpg ./Sega
+  610  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  611  $ ls
+  612  Microsoft/               gbc_pokemongold.jpg                       playstation_5.residentevilvillage_.jpg  xbox_deadtorights.jpg
+  613  Nintendo/                gc_mariokartdoubledash.jpg                ps4_fifa14.jpg                          xbox_defjamfightforny.jpg
+  614  Sega/                    gc_supermariosunshine.jpg                 x360_callfoduty3.jpg                    xbox_halo2.jpg
+  615  Sony/                    playstation_4.assassinscreedodyssey.jpg   x360_callofduty2.jpg                    xbox_halo_2.jpg
+  616  gameboy.pokmonred.jpg    playstation_4.unchartedthelostlegacy.jpg  x360_callofduty4.jpg                    xbox_jetsetradiofuture_2.jpg
+  617  gb_pokemonblue_eu.jpg    playstation_4.watchdogs2.jpg              x360_callofdutyblackopsii.jpg           xbox_needforspeedunderground2.jpg
+  618  gb_pokemongreen_3.jpg    playstation_5.assassinscreedvalhalla.jpg  xbox_360.fableiii.jpg
+  619  gb_pokemonyellow_au.jpg  playstation_5.farcry6.jpg                 xbox_deadoralive3.jpg
+  620  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  621  $ cd Sega
+  622  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Sega (main)
+  623  $ ls
+  624  Dreamcast/  dc_jetgrindradio_10.jpg  dc_jetsetradio_eu_front.jpg  dc_shenmue_eu.jpg  dc_shenmueii_5.jpg
+  625  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Sega (main)
+  626  $ mv dc_jetgrindradio_10.jpg  dc_jetsetradio_eu_front.jpg  dc_shenmue_eu.jpg  dc_shenmueii_5.jpg ./Dreamcast
+  627  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Sega (main)
+  628  $ cd Dreamcast
+  629  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Sega/Dreamcast (main)
+  630  $ ls
+  631  dc_jetgrindradio_10.jpg  dc_jetsetradio_eu_front.jpg  dc_shenmue_eu.jpg  dc_shenmueii_5.jpg
+  632  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Sega/Dreamcast (main)
+  633  $ cd ..
+  634  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Sega (main)
+  635  $ cd ..
+  636  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  637  $ ls
+  638  Microsoft/               gbc_pokemongold.jpg                       playstation_5.residentevilvillage_.jpg  xbox_deadtorights.jpg
+  639  Nintendo/                gc_mariokartdoubledash.jpg                ps4_fifa14.jpg                          xbox_defjamfightforny.jpg
+  640  Sega/                    gc_supermariosunshine.jpg                 x360_callfoduty3.jpg                    xbox_halo2.jpg
+  641  Sony/                    playstation_4.assassinscreedodyssey.jpg   x360_callofduty2.jpg                    xbox_halo_2.jpg
+  642  gameboy.pokmonred.jpg    playstation_4.unchartedthelostlegacy.jpg  x360_callofduty4.jpg                    xbox_jetsetradiofuture_2.jpg
+  643  gb_pokemonblue_eu.jpg    playstation_4.watchdogs2.jpg              x360_callofdutyblackopsii.jpg           xbox_needforspeedunderground2.jpg
+  644  gb_pokemongreen_3.jpg    playstation_5.assassinscreedvalhalla.jpg  xbox_360.fableiii.jpg
+  645  gb_pokemonyellow_au.jpg  playstation_5.farcry6.jpg                 xbox_deadoralive3.jpg
+  646  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  647  $ mv gameboy.pokmonred.jpg gb_pokemonblue_eu.jpg gb_pokemongreen_3.jpg gb_pokemonyellow_au.jpg ./Nintendo
+  648  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  649  $ cd Nintendo
+  650  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  651  $ ls
+  652  Gameboy/  Gameboycolor/  Gamecube/  gameboy.pokmonred.jpg  gb_pokemonblue_eu.jpg  gb_pokemongreen_3.jpg  gb_pokemonyellow_au.jpg
+  653  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  654  $ cd ..
+  655  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  656  $ ls
+  657  Microsoft/                  playstation_4.assassinscreedodyssey.jpg   x360_callfoduty3.jpg           xbox_defjamfightforny.jpg
+  658  Nintendo/                   playstation_4.unchartedthelostlegacy.jpg  x360_callofduty2.jpg           xbox_halo2.jpg
+  659  Sega/                       playstation_4.watchdogs2.jpg              x360_callofduty4.jpg           xbox_halo_2.jpg
+  660  Sony/                       playstation_5.assassinscreedvalhalla.jpg  x360_callofdutyblackopsii.jpg  xbox_jetsetradiofuture_2.jpg
+  661  gbc_pokemongold.jpg         playstation_5.farcry6.jpg                 xbox_360.fableiii.jpg          xbox_needforspeedunderground2.jpg
+  662  gc_mariokartdoubledash.jpg  playstation_5.residentevilvillage_.jpg    xbox_deadoralive3.jpg
+  663  gc_supermariosunshine.jpg   ps4_fifa14.jpg                            xbox_deadtorights.jpg
+  664  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  665  $ mv gbc_pokemongold.jpg gc_mariokartdoubledash.jpg ./Nintendo
+  666  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  667  $ cd Nintendo
+  668  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  669  $ ls
+  670  Gameboy/       Gamecube/              gb_pokemonblue_eu.jpg  gb_pokemonyellow_au.jpg  gc_mariokartdoubledash.jpg
+  671  Gameboycolor/  gameboy.pokmonred.jpg  gb_pokemongreen_3.jpg  gbc_pokemongold.jpg
+  672  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  673  $ mv gbc_pokemongold.jpg ./Gameboycolor
+  674  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  675  $ cd Gameboycolor
+  676  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo/Gameboycolor (main)
+  677  $ ls
+  678  gbc_pokemongold.jpg
+  679  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo/Gameboycolor (main)
+  680  $ cd ..
+  681  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  682  $ ls
+  683  Gameboy/       Gamecube/              gb_pokemonblue_eu.jpg  gb_pokemonyellow_au.jpg
+  684  Gameboycolor/  gameboy.pokmonred.jpg  gb_pokemongreen_3.jpg  gc_mariokartdoubledash.jpg
+  685  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  686  $ mv gameboy.pokmonred.jpg gb_pokemonblue_eu.jpg gb_pokemongreen_3.jpg gb_pokemonyellow_au.jpg ./Gameboy
+  687  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  688  $ cd Gameboy
+  689  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo/Gameboy (main)
+  690  $ ls
+  691  gameboy.pokmonred.jpg  gb_pokemonblue_eu.jpg  gb_pokemongreen_3.jpg  gb_pokemonyellow_au.jpg
+  692  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo/Gameboy (main)
+  693  $ cd ..
+  694  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  695  $ cd ..
+  696  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  697  $ ls
+  698  Microsoft/                               playstation_4.unchartedthelostlegacy.jpg  x360_callfoduty3.jpg           xbox_deadtorights.jpg
+  699  Nintendo/                                playstation_4.watchdogs2.jpg              x360_callofduty2.jpg           xbox_defjamfightforny.jpg
+  700  Sega/                                    playstation_5.assassinscreedvalhalla.jpg  x360_callofduty4.jpg           xbox_halo2.jpg
+  701  Sony/                                    playstation_5.farcry6.jpg                 x360_callofdutyblackopsii.jpg  xbox_halo_2.jpg
+  702  gc_supermariosunshine.jpg                playstation_5.residentevilvillage_.jpg    xbox_360.fableiii.jpg          xbox_jetsetradiofuture_2.jpg
+  703  playstation_4.assassinscreedodyssey.jpg  ps4_fifa14.jpg                            xbox_deadoralive3.jpg          xbox_needforspeedunderground2.jpg
+  704  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  705  $ mv gc_supermariosunshine.jpg ./Nintendo
+  706  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers (main)
+  707  $ cd Nintendo
+  708  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  709  $ ls
+  710  Gameboy/  Gameboycolor/  Gamecube/  gc_mariokartdoubledash.jpg  gc_supermariosunshine.jpg
+  711  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  712  $ mv gc_mariokartdoubledash.jpg gc_supermariosunshine.jpg ./Gamecube
+  713  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  714  $ cd Gamecube
+  715  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo/Gamecube (main)
+  716  $ ls
+  717  gc_mariokartdoubledash.jpg  gc_supermariosunshine.jpg
+  718  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo/Gamecube (main)
+  719  $ cd ..
+  720  leane@L▒ane MINGW64 /c/exam/exam_shell_aglo_b1/ex00/covers/Nintendo (main)
+  721  $ cd ..
+  722   
+  723  ls
+  724  mv x360_callofduty2.jpg x360_callofduty4.jpg x360_callofdutyblackopsii.jpg xbox_360.fableiii.jpg xbox_deadoralive3.jpg xbox_deadtorights.jpg xbox_defjamfightforny.jpg xbox_halo2.jpg xbox_halo_2.jpg xbox_jetsetradiofuture_2.jpg xbox_needforspeedunderground2.jpg ./Microsoft
+  725  cd Microsoft
+  726  ls
+  727  mv x360_callofduty2.jpg x360_callofduty4.jpg x360_callofdutyblackopsii.jpg xbox_360.fableiii.jpg ./xbox360
+  728  ls
+  729  mv xbox_deadoralive3.jpg  xbox_defjamfightforny.jpg xbox_halo_2.jpg xbox_needforspeedunderground2.jpg xbox_deadtorights.jpg xbox_halo2.jp xbox_jetsetradiofuture_2.jpg ./xbox
+  730  ls
+  731  mv xbox_halo2.jpg ./xbox
+  732  ls
+  733  cd xbox
+  734  ls
+  735  cd ..
+  736  cd xbox360
+  737  ls
+  738  cd ..
+  739  cd ..
+  740  ls
+  741  cd Nintendo
+  742  mkdir Salon Portable
+  743  ls
+  744  mv Gameboy Gameboycolor ./Portable
+  745  ls
+  746  mv Gamecube ./Salon
+  747  ls
+  748  cd ..
+  749  ls
+  750  cd ..
+  751  ls
+  752  cd ..
+  753  git add .
+  754  git commit -m "resolution ex00"
+  755  git log
+  756   git config --global user.email leanecrozier23@gamail.com
+  757  git config --global user.name Leane
+  758  git commit -m "resolution ex00"
+  759  git push
+  760  git pull
+  761  git push
+  762  ls
+  763  cd ex00
+  764  ls
+  765  ls covers/
+  766  cd Sega
+  767  ls
+  768  cd covers
+  769  ls
+  770  cd Sega
+  771  ls
+  772  cd ..
+  773  cd ..
+  774  cd ..
+  775  ls
+  776  cd ex01
+  777  cat instructions.txt
+  778  head dialogue.txt
+  779  head dialogue.txt >first_command.sh
+  780  tail -n 10 dialogue.txt
+  781  tail -n 10 dialogue.txt >second_command.sh
+  782  head -c 100 dialogue.txt
+  783  head -c 100 dialogue.txt >third_command.sh
+  784  git status
+  785  git add .
+  786  git status
+  787  git push
+  788  git commit -m "resolution ex01"
+  789  git push
+  790  cd ..
+  791  ls
+  792  history
+  793  history > history.txt
